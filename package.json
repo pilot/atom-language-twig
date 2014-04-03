@@ -1,0 +1,12 @@
+{
+  "name": "language-twig",
+  "version": "0.1.0",
+  "description": "Atom language twig",
+  "repository": "https://github.com/pilot/language-twig",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
